@@ -26,7 +26,7 @@
 
 
 
-**Demo Vedio
+**Demo Video
 
-[![Video Label](http://img.youtube.com/vi/QvY6Q09HncI/0.jpg)]([https://youtu.be/59USvjy2toI](https://www.youtube.com/embed/QvY6Q09HncI))
+[![Video Label](http://img.youtube.com/vi/QvY6Q09HncI/0.jpg)](htps://youtube.com/embeded/QvY6Q09Hncl)
 
