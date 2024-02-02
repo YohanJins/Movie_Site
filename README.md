@@ -28,5 +28,6 @@
 
 **Demo Video
 
-[![Video Label](http://img.youtube.com/vi/QvY6Q09HncI/0.jpg)](htps://youtube.com/embeded/QvY6Q09Hncl)
+[![영상 제목](https://img.youtube.com/vi/QvY6Q09HncI/0.jpg)](https://www.youtube.com/watch?v=QvY6Q09HncI)
+
 
