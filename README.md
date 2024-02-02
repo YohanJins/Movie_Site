@@ -19,11 +19,14 @@
 •	(Incompleted)Favorite System: Allowing users to mark movies as favorites and manage their favorite list.
 
 •	(Incompleted)Favorites Page: Developing a page for users to view and manage their favorite movies.
-
+<br>
+<br>
 **Landing Page Screen Capture
 
 <img width="1012" alt="Screenshot 2024-02-02 at 9 49 17 AM" src="https://github.com/YohanJins/Movie_Site/assets/146444793/7f24e8ed-4e1e-40d8-a99b-ec5c3ea3bd9d">
 
+<br>
+<br>
 
 
 **Demo Video
