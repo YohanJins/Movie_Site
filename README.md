@@ -16,9 +16,9 @@
 
 •	Movie Cast Information: Displaying cast details for each movie.
 
-•	(Incompleted)Favorite System: Allowing users to mark movies as favorites and manage their favorite list.
+•	(Incompleted) Favorite System: Allowing users to mark movies as favorites and manage their favorite list.
 
-•	(Incompleted)Favorites Page: Developing a page for users to view and manage their favorite movies.
+•	(Incompleted) Favorites Page: Developing a page for users to view and manage their favorite movies.
 <br>
 <br>
 <br>
@@ -31,7 +31,7 @@
 <br>
 
 
-<strong>**Demo Video</strong>
+<strong>**Demo Video(Image Click!)</strong>
 
 [![영상 제목](https://img.youtube.com/vi/QvY6Q09HncI/0.jpg)](https://www.youtube.com/watch?v=QvY6Q09HncI)
 
