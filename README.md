@@ -21,15 +21,17 @@
 •	(Incompleted)Favorites Page: Developing a page for users to view and manage their favorite movies.
 <br>
 <br>
-**Landing Page Screen Capture
+<br>
+<strong>**Landing Page Screen Capture</strong>
 
 <img width="1012" alt="Screenshot 2024-02-02 at 9 49 17 AM" src="https://github.com/YohanJins/Movie_Site/assets/146444793/7f24e8ed-4e1e-40d8-a99b-ec5c3ea3bd9d">
 
 <br>
 <br>
+<br>
 
 
-**Demo Video
+<strong>**Demo Video</strong>
 
 [![영상 제목](https://img.youtube.com/vi/QvY6Q09HncI/0.jpg)](https://www.youtube.com/watch?v=QvY6Q09HncI)
 
